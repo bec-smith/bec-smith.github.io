@@ -1,0 +1,10 @@
+url: "https://becnichelesmith.github.io"
+baseurl: ""
+
+
+title: Bec Nichele Smith
+
+description: Bec Nichele Smith's Personal website
+
+plugins:
+  - jekyll-seo-tag
